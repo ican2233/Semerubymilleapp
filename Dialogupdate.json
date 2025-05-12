@@ -1,11 +1,11 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "1.0",
+    "version": "1.29.5",
     "mandatory": false,
     "update_url": "https://t.me/melawanbudayadominan",
     "title": "Update Available",
-    "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
+    "message": "A New Version Of The App Has Been Released. Please Update Now To Take Advantage Of The New Features. ",
     "socialLinks": [
       {
         "name": "facebook",
