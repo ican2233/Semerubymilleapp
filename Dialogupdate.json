@@ -3,7 +3,7 @@
   "versionName": "1.29.6",
   "apkSize": 37.82,
   "enabledDark": true,
-  "forceUp": false,
+  "forceUp": true,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
     "Android 15 support",
