@@ -2,7 +2,7 @@
   "versionCode": 1405,
   "versionName": 1.29.6",
   "apkSize": 37,82M,
-  "enabledDark": true,
+  "enabledDark": false,
   "forceUp": false,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
